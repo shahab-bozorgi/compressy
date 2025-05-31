@@ -1,0 +1,15 @@
+[build-system]
+requires = ["setuptools", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "compressy"
+version = "0.1.0"
+description = "A lightweight and easy-to-use Python library for efficient image compression and resizing, optimized for web and mobile applications."
+authors = [{name = "Amu", email = "shahab.bozorgi007@gmail.com"}]
+license = {text = "MIT"}
+readme = "README.md"
+requires-python = ">=3.8"
+dependencies = [
+    "Pillow>=9.0"
+]

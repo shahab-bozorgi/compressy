@@ -1,0 +1,11 @@
+LICENSE
+README.md
+pyproject.toml
+compressy/__init__.py
+compressy/compressor.py
+compressy.egg-info/PKG-INFO
+compressy.egg-info/SOURCES.txt
+compressy.egg-info/dependency_links.txt
+compressy.egg-info/requires.txt
+compressy.egg-info/top_level.txt
+tests/test_compressor.py
